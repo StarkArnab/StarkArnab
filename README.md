@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ➺ *rockarnab367@gmail.com*
   
-- 📝 Here is my resume ➺ [Resume]()
+- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1Eq3LIqXrfxASiKoeYwGYIc0UV-RhE0pc/view?usp=sharing)
   
  <br/>
 
