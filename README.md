@@ -23,8 +23,11 @@
 
 ## 🛠 Skills
 
-- React
 - JavaScript
 - HTML
 - CSS
 - JAVA
+- MongoDB
+- Express
+- React
+- NodeJS
