@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ➺ *ReactJS, Nodejs, Express, JavaScript, CSS, HTML and Data Structures and Algorithms*
 
-- 📫 How to reach me ➺ *rockarnab367@gmail.com*
+- 📫 How to reach me ➺ *arnabofficial123@gmail.com*
   
 - 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1PJoyibqMFDCPy_q0txUkfrzAfWXv82do/view?usp=sharing)
   
